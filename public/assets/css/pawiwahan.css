@@ -51,7 +51,7 @@ nav.footer {
 }
 
 img.card-img-top {
-  width: 40%;
+  width: 100%;
 }
 
 .card {
@@ -187,7 +187,7 @@ audio {
 }
 
 .hero {
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.3)), rgba(0, 0, 0, 0.55) url("https://i.ibb.co/SrJqtgY/RAY-0165-1920-sq.jpg") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.3)), rgba(0, 0, 0, 0.55) url("https://firebasestorage.googleapis.com/v0/b/wedding-73280.appspot.com/o/_DSC1791.jpg?alt=media&token=019409fd-915e-48bd-8c04-c49d7d6c3365") no-repeat;
   background-size: cover;
   position: relative;
   height: 100%;
